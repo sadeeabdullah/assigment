@@ -285,3 +285,46 @@ background: #FFF;
 width: 600px;
 height: 48px;
 }
+
+/* footer design */
+.foot{
+    background-color: #111010;
+    height: 440px;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+
+}
+.footerhead{
+    color: #E55473;
+font-family: Lato;
+font-size: 48px;
+
+font-weight: 800;
+padding-top: 128px;
+padding-bottom: 24px;
+}
+
+.lor{
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+padding: 0px 300px;
+}
+.paraglite{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+
+font-weight: 400;
+padding: 35px;
+
+}
+.sada{
+    color: white;
+}
