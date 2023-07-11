@@ -96,7 +96,7 @@ header {
 
     font-size: 17px;
 
-    margin: 24px 380px;
+    margin: 10px 380px;
 
     line-height: 30px;
 }
@@ -267,4 +267,21 @@ padding-right: 170px;
 .picture{
     height: 310px;
     width: 290px;
+}
+/* section five featured */
+.five-featured{
+    background-image: url("../Flower Asset/Rectangle 9.png");
+    margin: 100px 110px;
+    height: 350px; 
+    width: 1135px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.inp{
+    border-radius: 8px;
+    border: 0px;
+background: #FFF;
+width: 600px;
+height: 48px;
 }
