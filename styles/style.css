@@ -328,3 +328,44 @@ padding: 35px;
 .sada{
     color: white;
 }
+/* review section styles */
+.comment{
+    background-color:rgba(65, 60, 61, 0.05);
+    
+    width: 1100px;
+    margin: 40px 110px;
+    border-radius: 8px;
+    border: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 100px 0px;
+}
+.newinput-1{
+    border-radius: 8px;
+    color: rgb(250, 252, 253);
+    border: 0px;
+background-color:  #FFF;
+width: 600px;
+height: 48px;
+margin-bottom: 15px;
+}
+.newinput-2{
+    border-radius: 8px;
+    color: rgb(213, 218, 223);
+    border: 0px;
+background-color:  #FFF;
+width: 600px;
+height: 48px;
+margin-bottom: 15px
+}
+.newinput-3{
+    border-radius: 8px;
+    color: rgb(189, 196, 202);
+    border: 0px;
+background-color:  #FFF;
+width: 600px;
+height: 48px;
+margin-bottom: 20px;
+padding-bottom: 70px;
+}
