@@ -110,11 +110,8 @@ header {
 
 .photo1 {
     width: 200px;
-    height: 310px;
-    margin-top: 140px;
-    
-   
-
+    height: 280px;
+    margin-top: 170px;
 }
 
 .pink {
@@ -143,4 +140,44 @@ header {
     width: 464px;
     
     
+}
+.pol{
+    color: #272727;
+text-align: center;
+
+font-size: 15px;
+
+line-height: 40px;
+text-decoration-line: underline;
+}
+
+.second-featured{
+    margin:180px 110px ;
+    height: 280px;
+    border-radius: 8px;
+    background-color: rgba(39, 39, 39, 0.05);
+    display: flex;
+   justify-content: space-around;
+   align-items: center;
+   
+  
+}
+.lol{
+    display: flex;
+    flex-direction: column;
+    
+}
+.photo2{
+    height: 70px;
+    width: 70px;
+    margin-left: 60px;
+   
+}
+.pola{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    line-height: 35px;
+}
+.new{
+    margin-right: 45px;
 }
