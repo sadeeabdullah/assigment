@@ -1,36 +1,42 @@
 * {
     margin: 0px;
     padding: 0px;
-    
+
 
 }
 
 header {
-    background-color: #E554731A;
-    height: 660px;
+    background-color: rgb(229, 84, 115, 0.10);
+    display: block;
+    height: 645px;
+    font-family: 'Lato', sans-serif;
+
 }
 
 .navclass {
     display: flex;
     justify-content: space-around;
     align-items: center;
+
     margin: 0px 110px;
 
 }
 
 .photo {
     width: 430px;
-    height: 560px;
+    height: 545px;
     margin-top: 5px;
+
 }
-.image{
+
+.image {
     margin: 95px 30px;
 }
 
 /* text styles for header */
 
-.text{
-    
+.text {
+
     width: 50%;
 }
 
@@ -40,30 +46,101 @@ header {
     font-size: 70px;
     height: 260px;
 
-    
-    padding-bottom: 5px;
+
+    margin-top: -35px;
 }
 
 .para {
-    color: rgba(39, 39, 39, 0.60);
-  
-    font-size: 18px;
+    color: rgba(17, 17, 17, 0.6);
 
-    font-weight: 400;
-    
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 5px;
+
     padding-top: 5px;
 }
 
 .button {
-    border-radius: 3px;
+    border-radius: 7px;
     border: 0px;
-   padding: 15px 36px;
-    
+    padding: 15px 36px;
+
     background: #E55473;
     color: #FFF;
     margin-top: 30px;
     font-size: 15px;
-   
+
     font-weight: 700;
+
+}
+
+/* first section css */
+
+.first-featured {
+    font-family: 'Lato', sans-serif;
+
+}
+
+.featured-name {
+    color: #272727;
+    text-align: center;
+    margin-top: 300px;
+    font-size: 35px;
+}
+
+.featured-text {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+
+    font-size: 17px;
+
+    margin: 24px 380px;
+
+    line-height: 30px;
+}
+
+.image1 {
+    text-align: center;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin: 45px 110px;
+    
+}
+
+.photo1 {
+    width: 200px;
+    height: 310px;
+    margin-top: 140px;
+    
    
+
+}
+
+.pink {
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(167, 33, 98, 0.15);
+    height: 450px;
+    width: 464px;
+    x
+
+}
+
+.blue {
+    background-color: rgba(5, 151, 160, 0.15);
+    border-radius: 300px 300px 0px 0px;
+
+    height: 450px;
+    width: 464px;
+
+}
+
+.ash {
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(71, 125, 17, 0.15);
+    
+    height: 450px;
+    width: 464px;
+    
+    
 }
