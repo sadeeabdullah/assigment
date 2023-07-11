@@ -83,12 +83,14 @@ header {
 
 .featured-name {
     color: #272727;
+    font-family: 'Lato', sans-serif;
     text-align: center;
-    margin-top: 300px;
+    margin-top: 100px;
     font-size: 35px;
 }
 
 .featured-text {
+    font-family: 'Lato', sans-serif;
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
 
@@ -254,4 +256,15 @@ padding-right: 170px;
 
 }
 
-
+/* instagram section */
+.insta{
+   
+    margin: 40px 110px;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+.picture{
+    height: 310px;
+    width: 290px;
+}
